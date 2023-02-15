@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.app-container {
+  padding: 10px;
+  padding-left: 40px;
+  background-color: #475569;
+  margin-bottom: 10px;
+}
+
+.box {
+  background-color: blue;
+  color: blue;
+}
